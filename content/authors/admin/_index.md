@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-Mathematicsl interests:
+interests:
 - Stochastic Partial Differential Equations
 - Financial Mathematics (Rough Volatility, Market Microstructure)
 - Machine Learning (especially conntected to PDEs)
