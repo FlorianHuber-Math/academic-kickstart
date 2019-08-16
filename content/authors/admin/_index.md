@@ -32,7 +32,7 @@ education:
   - course: PhD in Technical Mathematics
     institution: TU Wien
     year: 2018 - ongoing
- - course: Exchange Semester
+  - course: Exchange Semester
     institution: KTH-Royal Insitute of Technology, Stockholm
     year: 2016
   - course: Dipl.-Ing. in Technical Mathematics
@@ -79,6 +79,7 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
 ---
 
 
