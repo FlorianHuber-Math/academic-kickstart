@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Florian Huber
 
 # Username (this should match the folder name)
 authors:
@@ -10,37 +10,48 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate and project assistant at the Vienna University of Technology (TU Wien)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Vienna University of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Mathematicsl interests:
+- Stochastic Partial Differential Equations
+- Financial Mathematics (Rough Volatility, Market Microstructure)
+- Machine Learning (especially conntected to PDEs)
+- Rough Paths
+- White Noise Analysis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Technical Mathematics
+    institution: TU Wien
+    year: 2018 - ongoing
+ - course: Exchange Semester
+    institution: KTH-Royal Insitute of Technology, Stockholm
+    year: 2016
+  - course: Dipl.-Ing. in Technical Mathematics
+    institution: TU Wien
+    year: 2016 - 2017
+  - course: BSc in Technical Mathematics
+    institution: TU Wien
+    year: 2011 - 2016
+  - course: BA/BB in Global Business and International Relations
+    institution: International University of Vienna / Graduate School of Business Studies Belgrade
+    year: 2009 - 2011
+  - course: Exchange Semester
+    institution: Harvard University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:florian.huber@asc.tuwien.ac.at" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -70,6 +81,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
