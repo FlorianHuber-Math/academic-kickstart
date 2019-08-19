@@ -27,10 +27,6 @@ interests:
 - Rough Paths
 - White Noise Analysis
 
-teaching:
-  Computational finance
-  Institution: TU Wien
-
 education:
   courses:
   - course: PhD in Technical Mathematics
