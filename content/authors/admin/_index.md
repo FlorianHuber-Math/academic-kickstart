@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am currently a PhD candidate in the research group of Prof. Ansgar Juengel. My research focuses on quasilinear Stochastic Partial Differential Equations connected to so called cross-diffusion systems. 
 
 interests:
 - Stochastic Partial Differential Equations
@@ -26,6 +26,10 @@ interests:
 - Machine Learning (especially conntected to PDEs)
 - Rough Paths
 - White Noise Analysis
+
+teaching:
+  Computational finance
+  Institution: TU Wien
 
 education:
   courses:
